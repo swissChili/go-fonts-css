@@ -1,5 +1,9 @@
 # Go Fonts CSS
 
+![Go Regular](go-regular.png)
+
+![Go Mono](go-mono.png)
+
 This repository contains CSS `@font-face`s for the
 [Go fonts](https://blog.golang.org/go-fonts).
 
